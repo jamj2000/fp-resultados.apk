@@ -2,4 +2,4 @@
 Aplicación de android para fp-resultados
 
 ## Repositorio principal
-[fp-resultados](https://github.com/jamj2000/fp-resultados)
+[Aplicación web](https://github.com/jamj2000/fp-resultados)

@@ -5,7 +5,8 @@ Aplicación de android para fp-resultados
 [Aplicación web](https://github.com/jamj2000/fp-resultados)
 
 ## Descarga de .APK
-[![Aplicación para Android](https://github.com/jamj2000/fp-resultados.capturas/blob/master/app-logo.png "Aplicación para Android")](https://github.com/jamj2000/fp-resultados.apk/blob/master/fp-resultados.apk)
+[![logo](https://github.com/jamj2000/fp-resultados.capturas/blob/master/app-logo.png "Aplicación para Android")]
+(https://drive.google.com/file/d/0B1RxM5nsBsp3S0l0NUF6a0ZaOWs/view?usp=sharing)
 
 ## Capturas de pantalla
 

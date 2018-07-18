@@ -8,7 +8,7 @@ Aplicación de android para fp-resultados
 
 **NOTA:**
 
-**Esta aplicación necesita actualizarse. Actualmente no es funcional. Se necesita cambiar el servidor fp-resultados.rhcloud.com por fp-resultados.herokuapp.com. Si alguien lo desea puede recompilar el código cambiando únicamente este 'issue'.** 
+**Esta APK necesita actualizarse. Actualmente no es funcional. Se necesita cambiar el servidor fp-resultados.rhcloud.com por fp-resultados.herokuapp.com. Si alguien lo desea puede recompilar el código cambiando únicamente este 'issue'.** 
 
 [![logo](https://github.com/jamj2000/fp-resultados.capturas/blob/master/app-logo.png "Aplicación para Android")]
 (https://drive.google.com/file/d/0B1RxM5nsBsp3S0l0NUF6a0ZaOWs/view?usp=sharing)
